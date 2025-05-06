@@ -1,4 +1,4 @@
-# TalaVirtualAudioCables
+# Tala Virtual Audio Cables
 
 ## 🖥️ VB-CABLE Installation Guide (A + B Drivers)
 
